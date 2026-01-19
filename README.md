@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anuja Kulkarni
-- 👀 I’m interested in doing some collaborations and fix some simple bugs, considering I am a student for now, but i love new challenges and im sure it'll up my league.
+- 👀 I’m interested in doing some collaborations and fix some simple bugs, but i love new challenges and im sure it'll up my league.
 - 🌱 I’m currently learning Data Structures and Algorithms and some Machine Learning Algorithms.
 - 💞️ I’m looking to collaborate on literally anything related to C++, Java, Python, Javascript, React, Flask, Django.
 - 📫 How to reach me: anujak2003@gmail.com
